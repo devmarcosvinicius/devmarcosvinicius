@@ -33,20 +33,6 @@ if __name__ == '__main__':
     me = MarcosDerek()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/lk2amh7l5nqr3wq9jc3szaayb">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/lk2amh7l5nqr3wq9jc3szaayb">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-
 ------
 
 Credit: [abhigyantrips](https://github.com/abhigyantrips)
