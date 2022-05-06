@@ -21,10 +21,10 @@
 class MarcosDerek():
     
   def __init__(self):
-    self.name = "Marcos Vinicius";
-    self.username = "Marcos Derek";
-    self.location = "DF, Brazil";
-    self.web = "https://marcosderek.github.io/MarcosDerekWebsite/";
+    self.name = "Marcos Vinicius"
+    self.username = "Marcos Derek"
+    self.location = "DF, Brazil"
+    self.web = "https://marcosderek.github.io/MarcosDerekWebsite/"
   
   def __str__(self):
     return self.name
