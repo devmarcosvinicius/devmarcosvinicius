@@ -4,7 +4,7 @@
 </p>
 
 ![Marcos Vinicius' Github Stats](https://github-readme-stats.vercel.app/api?username=devmarcosvinicius&show_icons=true&theme=gruvbox)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmarcosvinicius)]
 <br>
 
 <p>
