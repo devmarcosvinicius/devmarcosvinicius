@@ -7,7 +7,7 @@
 <h3 align="center">
   <samp>&gt; Hello There, I'm
     <b>
-        <a target="_blank" href="https://marcosviniciusdev.com">Marcos Vinicius</a>.
+        <a href="https://marcosviniciusdev.com" target="_blank">Marcos Vinicius</a>.
     </b><br>
     &gt; I'm a computer science student and backend developer.
   </samp>
@@ -15,7 +15,7 @@
 
 <h3 align="center">Contacts</h3>
 <p align="center">
-  <a href="https://marcosviniciusdev.com" target="blank">
+  <a href="https://marcosviniciusdev.com" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=E94D5F" alt="Marcos Vinicius' Website"/>
   </a>
   <a href="https://linkedin.com/in/devmarcosvinicius" target="_blank">
@@ -24,7 +24,7 @@
   <a href="mailto:contato@marcosviniciusdev.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F" alt="Marcos Vinicius' Email"/>
   </a>
-  <a href="https://web.dio.me/users/marcos_intergo/" target="">
+  <a href="https://web.dio.me/users/marcos_intergo/" target="_blank">
     <img src="https://img.shields.io/badge/-My%20DIO%20Profile-000?style=for-the-badge&logoColor=30A3DC" alt="Marcos Vinicius' DIO Profile"/>
   </a>
 </p>
@@ -48,18 +48,18 @@
 
 <h3 align="center">Github Stats</h3>
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/demarcosvinicius" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmarcosvinicius&theme=radical&border=7F3FBF&background=0D1117" alt="Marcos Vinicius' GitHub streak"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/devmarcosvinicius">
+  <a href="https://github.com/devmarcosvinicius" target="_blank">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmarcosvinicius&theme=radical" alt="Marcos Vinicius' GitHub Contribution"/>
   </a>
 </p>
 <!-- <a> 
-  <a href="https://github.com/devmarcosvinicius"><img alt="Marcos Vinicius' Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devmarcosvinicius&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/devmarcosvinicius"><img alt="Marcos Vinicius' Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devmarcosvinicius&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/devmarcosvinicius" target="_blank"><img alt="Marcos Vinicius' Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devmarcosvinicius&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/devmarcosvinicius" target="_blank"><img alt="Marcos Vinicius' Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devmarcosvinicius&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a> -->
 
