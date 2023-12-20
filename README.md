@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://simp4.jpg.church/welcomebc7260a6630c8962.png" alt="welcome" border="0" al>
+  <img src="./Welcome Banner.png" alt="welcome" border="0" al>
 </div>
 
 <!-- Intro  -->
