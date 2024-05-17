@@ -24,8 +24,8 @@
   <a href="mailto:contato@marcosviniciusdev.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F" alt="Marcos Vinicius' Email"/>
   </a>
-  <a href="https://www.dio.me/users/marcos_intergo" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20DIO%20Profile-000?style=for-the-badge&logoColor=30A3DC" alt="Marcos Vinicius' DIO Profile"/>
+  <a href="https://alura.com.br/user/devmarcosvinicius" target="_blank">
+    <img src="https://img.shields.io/badge/-My%20Alura%20Profile-000?style=for-the-badge&logoColor=30A3DC" alt="Marcos Vinicius' Alura Profile"/>
   </a>
 </p>
 <br>
