@@ -9,7 +9,7 @@
     <b>
         <a href="https://marcosviniciusdev.com" target="_blank">Marcos Vinicius</a>.
     </b><br>
-    &gt; I'm a computer science student and backend developer.
+    &gt; I'm a computer science student and web developer.
   </samp>
 </h3>
 
